@@ -1,0 +1,23 @@
+.text-box 
+{
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #333;
+    max-width: 20vw;
+    margin: 0 auto;
+    border-radius: 0.1rem;
+    padding: 0.2rem 1rem;
+    margin-top: 10vh;
+    text-align: left;
+    min-height: 150px;
+}
+.text-box:focus 
+{
+    outline: none;
+}
+#canvas
+{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
